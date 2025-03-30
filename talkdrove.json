@@ -19,10 +19,7 @@
         "value":".",
         "required": true
         
-      },
-    
- 
-    
+      },   
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -45,12 +42,6 @@
     },    
   
     
-
-     
-
-    
-
-
     "AUTO_STATUS_REACT": {
       "description": "Make it true for automatic status react & seen.",
       "required": true,
@@ -103,22 +94,14 @@
       "value": "false"
     }, 
 
-     "DESCRIPTION": {
-      "description": "add caption for menu and other",
-      "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*"
-    },
-
+     
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
       "value": "true"
     },
-    
-    
 
     
-
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
